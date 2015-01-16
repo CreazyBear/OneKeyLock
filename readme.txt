@@ -1,0 +1,3 @@
+两个JAVA类
+Manifest文件中加入了一个device manager 的 receiver
+修改了style文件，去掉了应用的Title，使用应用透明。
